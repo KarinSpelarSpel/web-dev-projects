@@ -8,6 +8,8 @@ import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 
+// https://www.youtube.com/watch?v=hYv6BM2fWd8
+
 function App() {
   return (
     <div className="App">
